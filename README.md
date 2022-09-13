@@ -1,16 +1,16 @@
 Syo.D(@knmusicstudio)によるプログラムの
 ソース公開ページです。
 
-2022/09/03
-Arduinoを使った232Cプロジェクター(Panasonic製)を
-接続した際のプロジェクター信号をエミュレートした
-プログラムを公開しました。
-PONとPOFとQPWに対応しています。
-
-当方Arduino MEGAにて動作検証しております。
-
-ご協力いただいている方
-
-・レンタルショップみゆき　様(@Rent_miyuki)
-・焼野原雪緒　様　(@nikoichikaraoke)
-・佐藤特殊電機設計　様
+2022/09/03<br>
+Arduinoを使った232Cプロジェクター(Panasonic製)を<br>
+接続した際のプロジェクター信号をエミュレートした<br>
+プログラムを公開しました。<br>
+PONとPOFとQPWに対応しています。<br>
+<br>
+当方Arduino MEGAにて動作検証しております。<br>
+<br>
+ご協力いただいている方<br>
+<br>
+・レンタルショップみゆき　様(@Rent_miyuki)<br>
+・焼野原雪緒　様　(@nikoichikaraoke)<br>
+・佐藤特殊電機設計　様<br>
